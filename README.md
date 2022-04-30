@@ -1,3 +1,3 @@
 # Go-security
 Новый DBL Security с быстрой настройкой безопасности
-[Скачать](https://github.com/NikitaBashirov/Go-security/blob/main/gosecurity.msc)
+[Скачать](https://drive.google.com/file/d/16_Chics8nxPYa7kwLBvhECbokJrNrkju/view)
